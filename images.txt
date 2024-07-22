@@ -1,4 +1,1 @@
-1panel/maxkb
-mysql:8.2.0
-ollama/ollama
-0001coder/chatollama
+mintplexlabs/anythingllm
